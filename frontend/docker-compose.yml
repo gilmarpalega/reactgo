@@ -1,0 +1,8 @@
+version: '3'
+services:
+  web:
+    build: .
+    image: react-cli
+    container_name: react-cli
+    volumes:
+      - .:/app
