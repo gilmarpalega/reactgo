@@ -1,2 +1,3 @@
 # reactgo
-Simple Talk App using Go (golang), gofiber, gorm and React
+Simple Task App using Go (golang), gofiber, gorm and React
+
